@@ -8,8 +8,8 @@ This repository serves as a collection of hands-on learning projects and exercis
 
 ## 🛠️ Technology Stack
 
-- **HTML** (59%)
-- **CSS** (41%)
+- **HTML** 
+- **CSS** 
 
 ## 📁 Repository Structure
 
